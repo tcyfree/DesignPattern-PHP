@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d1b382a-9b6c-41cd-8e9e-cdb136317ba2" name="Default" comment="" />
+    <ignored path="imooc.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="ComposerSettings">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <pharPath>D:\EasyPHP-12.1\www\imooc\composer.phar</pharPath>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="imooc" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Home.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/App/Controller/Home.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="1" selection-start="559" selection-end="559" vertical-scroll-proportion="0.68379444" vertical-offset="447" max-vertical-offset="1242">
+              <folding>
+                <element signature="e#32#53#0" expanded="true" />
+                <marker date="1423409757457" expanded="true" signature="415:433" placeholder="select * fro..user..." />
+                <marker date="1423409757457" expanded="true" signature="457:484" placeholder="delete from ..." />
+                <marker date="1423409757457" expanded="true" signature="508:548" placeholder="update user ..." />
+                <marker date="1423409757457" expanded="true" signature="514:548" placeholder="delete from ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/IMooc/MaleUserStrategy.php" />
+        <option value="$PROJECT_DIR$/IMooc/Page.php" />
+        <option value="$PROJECT_DIR$/IMooc/IDatabase.php" />
+        <option value="$PROJECT_DIR$/IMooc/File.php" />
+        <option value="$PROJECT_DIR$/t.php" />
+        <option value="$PROJECT_DIR$/IMooc/DrawDecorator2.php" />
+        <option value="$PROJECT_DIR$/IMooc/DrawDecorator.php" />
+        <option value="$PROJECT_DIR$/IMooc/Canvas.php" />
+        <option value="$PROJECT_DIR$/IMooc/ColorDrawDecorator.php" />
+        <option value="$PROJECT_DIR$/IMooc/SizeDrawDecorator.php" />
+        <option value="$PROJECT_DIR$/IMooc/ObServer.php" />
+        <option value="$PROJECT_DIR$/IMooc/EventCreator.php" />
+        <option value="$PROJECT_DIR$/IMooc/Observer.php" />
+        <option value="$PROJECT_DIR$/IMooc/EventGenerator.php" />
+        <option value="$PROJECT_DIR$/tests/observer.php" />
+        <option value="$PROJECT_DIR$/tests/orm.php" />
+        <option value="$PROJECT_DIR$/IMooc/Register.php" />
+        <option value="$PROJECT_DIR$/IMooc/User.php" />
+        <option value="$PROJECT_DIR$/tests/proxy.php" />
+        <option value="$PROJECT_DIR$/IMooc/AllUser.php" />
+        <option value="$PROJECT_DIR$/IMooc/IUserProxy.php" />
+        <option value="$PROJECT_DIR$/IMooc/Proxy.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/IMooc/Decorator/Json.php" />
+        <option value="$PROJECT_DIR$/IMooc/Decorator/Template.php" />
+        <option value="$PROJECT_DIR$/App/Controller/Fontpage.php" />
+        <option value="$PROJECT_DIR$/App/Controller/Login.php" />
+        <option value="$PROJECT_DIR$/IMooc/Decorator/Login.php" />
+        <option value="$PROJECT_DIR$/App/Observer/UserRemove.php" />
+        <option value="$PROJECT_DIR$/IMooc/Database.php" />
+        <option value="$PROJECT_DIR$/IMooc/Config.php" />
+        <option value="$PROJECT_DIR$/configs/database.php" />
+        <option value="$PROJECT_DIR$/App/Model/User.php" />
+        <option value="$PROJECT_DIR$/IMooc/Model.php" />
+        <option value="$PROJECT_DIR$/IMooc/Controller.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/IMooc/Application.php" />
+        <option value="$PROJECT_DIR$/templates/home/index.php" />
+        <option value="$PROJECT_DIR$/App/Decorator/Login.php" />
+        <option value="$PROJECT_DIR$/App/Observer/UserAdd.php" />
+        <option value="$PROJECT_DIR$/App/Decorator/Json.php" />
+        <option value="$PROJECT_DIR$/App/Decorator/Template.php" />
+        <option value="$PROJECT_DIR$/App/Observer/UserAdd1.php" />
+        <option value="$PROJECT_DIR$/App/Observer/UserAdd2.php" />
+        <option value="$PROJECT_DIR$/App/Observer/UserAdd3.php" />
+        <option value="$PROJECT_DIR$/App/Observer/UserAdd4.php" />
+        <option value="$PROJECT_DIR$/configs/model.php" />
+        <option value="$PROJECT_DIR$/IMooc/Factory.php" />
+        <option value="$PROJECT_DIR$/configs/controller.php" />
+        <option value="$PROJECT_DIR$/IMooc/Database/Proxy.php" />
+        <option value="$PROJECT_DIR$/App/Controller/Home.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="php-cli" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="imooc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="imooc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="imooc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="imooc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="imooc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="configs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="imooc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="imooc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="App" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="imooc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="imooc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="App" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.lastSelected" value="preferences.keymap" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="recentsLimit" value="5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\EasyPHP-12.1\www\imooc\App\Observer" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\EasyPHP-12.1\www\imooc\App" />
+      <recent name="D:\EasyPHP-12.1\www\imooc\IMooc" />
+      <recent name="C:\Users\htf\PhpstormProjects\imooc\tests" />
+      <recent name="C:\Users\htf\PhpstormProjects\imooc" />
+      <recent name="C:\Users\htf\PhpstormProjects\imooc\IMooc\Core" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.index.php">
+    <configuration default="false" name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/index.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <RunnerSettings RunnerId="PhpScriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpScriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/test.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ClientStrategy.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/IMooc/ClientStrategy.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="User.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/IMooc/User.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="t.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/t.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.index.php" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Script.test.php" />
+      <item index="2" class="java.lang.String" itemvalue="PHP Script.ClientStrategy.php" />
+      <item index="3" class="java.lang.String" itemvalue="PHP Script.User.php" />
+      <item index="4" class="java.lang.String" itemvalue="PHP Script.t.php" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.index.php" />
+        <item index="1" class="java.lang.String" itemvalue="PHP Script.t.php" />
+        <item index="2" class="java.lang.String" itemvalue="PHP Script.User.php" />
+        <item index="3" class="java.lang.String" itemvalue="PHP Script.ClientStrategy.php" />
+        <item index="4" class="java.lang.String" itemvalue="PHP Script.test.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d1b382a-9b6c-41cd-8e9e-cdb136317ba2" name="Default" comment="" />
+      <created>1408852206584</created>
+      <updated>1408852206584</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329718" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19423287" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12295974" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39977974" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31057268" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32929516" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32929516" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/IMooc/Loader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="5" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="810" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMooc/Object.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="6" selection-end="38" vertical-scroll-proportion="-0.95555556" vertical-offset="0" max-vertical-offset="2064" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/SPL_c1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1616" column="24" selection-start="57212" selection-end="57212" vertical-scroll-proportion="0.36100388" vertical-offset="69301" max-vertical-offset="97137" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/PDO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="653" column="57" selection-start="18951" selection-end="18976" vertical-scroll-proportion="-12.0" vertical-offset="27539" max-vertical-offset="57921" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMooc/FemaleUserStrategy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="104" selection-end="275" vertical-scroll-proportion="0.28325123" vertical-offset="0" max-vertical-offset="920" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMooc/MaleUserStrategy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="18" selection-start="267" selection-end="267" vertical-scroll-proportion="0.8497537" vertical-offset="0" max-vertical-offset="1058" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMooc/UserStrategy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="28" selection-start="181" selection-end="181" vertical-scroll-proportion="0.45320198" vertical-offset="0" max-vertical-offset="812" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMooc/IDatabase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="5" selection-start="11" selection-end="11" vertical-scroll-proportion="0.08695652" vertical-offset="0" max-vertical-offset="644" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMooc/Observer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="40" selection-start="85" selection-end="85" vertical-scroll-proportion="0.28894472" vertical-offset="0" max-vertical-offset="796" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMooc/EventGenerator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="270" selection-end="270" vertical-scroll-proportion="0.13316584" vertical-offset="722" max-vertical-offset="1518" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMooc/Event.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="860" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/observer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="18" selection-start="511" selection-end="511" vertical-scroll-proportion="0.8844221" vertical-offset="676" max-vertical-offset="1656" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/orm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="336" selection-end="336" vertical-scroll-proportion="0.8844221" vertical-offset="216" max-vertical-offset="1196" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMooc/Page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="15" selection-start="603" selection-end="603" vertical-scroll-proportion="0.9045226" vertical-offset="752" max-vertical-offset="1748" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/mysqli.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="832" column="20" selection-start="24002" selection-end="24011" vertical-scroll-proportion="-7.6666665" vertical-offset="37766" max-vertical-offset="148534" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/proxy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="46" selection-start="245" selection-end="245" vertical-scroll-proportion="0.7512563" vertical-offset="0" max-vertical-offset="874" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMooc/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="0" selection-start="793" selection-end="793" vertical-scroll-proportion="0.6449553" vertical-offset="1335" max-vertical-offset="2300" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMooc/AllUser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="5" selection-start="439" selection-end="439" vertical-scroll-proportion="-5.9583335" vertical-offset="634" max-vertical-offset="2208" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMooc/IUserProxy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="20" selection-start="34" selection-end="44" vertical-scroll-proportion="0.16995074" vertical-offset="0" max-vertical-offset="812" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMooc/Proxy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="384" selection-end="384" vertical-scroll-proportion="0.7364532" vertical-offset="138" max-vertical-offset="1012" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/SPL.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1518" column="72" selection-start="47665" selection-end="47676" vertical-scroll-proportion="0.17259552" vertical-offset="69697" max-vertical-offset="95128" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMooc/Loader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="5" selection-start="154" selection-end="154" vertical-scroll-proportion="0.4848485" vertical-offset="0" max-vertical-offset="759" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMooc/Register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="20" selection-start="189" selection-end="189" vertical-scroll-proportion="0.35221675" vertical-offset="266" max-vertical-offset="1426" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="181" column="9" selection-start="6226" selection-end="6281" vertical-scroll-proportion="0.35449734" vertical-offset="8058" max-vertical-offset="50048" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/Core_c.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="87" column="10" selection-start="2342" selection-end="2342" vertical-scroll-proportion="20.291666" vertical-offset="4976" max-vertical-offset="16008" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMooc/Database/MySQL.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="20" selection-start="124" selection-end="131" vertical-scroll-proportion="0.71734893" vertical-offset="0" max-vertical-offset="1426" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/Core.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="571" column="9" selection-start="15895" selection-end="15895" vertical-scroll-proportion="0.35449734" vertical-offset="25998" max-vertical-offset="46920" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMooc/Database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="29" selection-start="250" selection-end="250" vertical-scroll-proportion="0.0" vertical-offset="736" max-vertical-offset="2162" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMooc/Config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="36" selection-start="465" selection-end="465" vertical-scroll-proportion="-14.375" vertical-offset="276" max-vertical-offset="2024" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMooc/Model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="68" selection-start="249" selection-end="254" vertical-scroll-proportion="-9.583333" vertical-offset="0" max-vertical-offset="1564" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMooc/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="15" selection-start="39" selection-end="39" vertical-scroll-proportion="-0.27083334" vertical-offset="125" max-vertical-offset="1748">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="46" selection-start="247" selection-end="247" vertical-scroll-proportion="-5.75" vertical-offset="0" max-vertical-offset="598" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMooc/Application.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="13" selection-start="487" selection-end="487" vertical-scroll-proportion="-0.3408805" vertical-offset="1421" max-vertical-offset="2806" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="20" selection-start="25" selection-end="25" vertical-scroll-proportion="0.056930695" vertical-offset="0" max-vertical-offset="808" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Decorator/Json.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="5" selection-start="252" selection-end="252" vertical-scroll-proportion="-11.125" vertical-offset="202" max-vertical-offset="1058" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Decorator/Login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="17" selection-start="232" selection-end="232" vertical-scroll-proportion="-7.6666665" vertical-offset="138" max-vertical-offset="1150" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Decorator/Template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="0" selection-start="488" selection-end="488" vertical-scroll-proportion="0.77227724" vertical-offset="526" max-vertical-offset="1472" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Model/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="21" selection-start="331" selection-end="337" vertical-scroll-proportion="0.6" vertical-offset="259" max-vertical-offset="1150" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Observer/UserAdd1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="19" selection-start="61" selection-end="67" vertical-scroll-proportion="0.28465346" vertical-offset="0" max-vertical-offset="808" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Observer/UserAdd2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="18" selection-start="97" selection-end="97" vertical-scroll-proportion="0.39851484" vertical-offset="0" max-vertical-offset="808" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Observer/UserAdd3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="5" selection-start="110" selection-end="110" vertical-scroll-proportion="0.45544556" vertical-offset="0" max-vertical-offset="808" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Observer/UserAdd4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="14" selection-start="45" selection-end="45" vertical-scroll-proportion="-2.875" vertical-offset="0" max-vertical-offset="690" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configs/model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="38" selection-start="148" selection-end="148" vertical-scroll-proportion="0.28465346" vertical-offset="0" max-vertical-offset="808" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMooc/Database/PDO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="6" selection-end="31" vertical-scroll-proportion="0.057861634" vertical-offset="0" max-vertical-offset="1472" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Controller/Login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="33" selection-start="167" selection-end="167" vertical-scroll-proportion="-7.6666665" vertical-offset="0" max-vertical-offset="736" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configs/controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="14" selection-start="125" selection-end="125" vertical-scroll-proportion="0.28465346" vertical-offset="0" max-vertical-offset="808" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configs/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="6" selection-start="623" selection-end="623" vertical-scroll-proportion="0.5445545" vertical-offset="664" max-vertical-offset="1472" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMooc/Database/Proxy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="19" selection-start="337" selection-end="337" vertical-scroll-proportion="0.62623763" vertical-offset="276" max-vertical-offset="1196" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMooc/Factory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="54" selection-start="909" selection-end="914" vertical-scroll-proportion="0.006289308" vertical-offset="1973" max-vertical-offset="3312">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMooc/Database/MySQLi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="13" selection-start="285" selection-end="285" vertical-scroll-proportion="0.35272276" vertical-offset="405" max-vertical-offset="1380" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Controller/Home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="1" selection-start="559" selection-end="559" vertical-scroll-proportion="0.68379444" vertical-offset="447" max-vertical-offset="1242">
+          <folding>
+            <element signature="e#32#53#0" expanded="true" />
+            <marker date="1423409757457" expanded="true" signature="415:433" placeholder="select * fro..user..." />
+            <marker date="1423409757457" expanded="true" signature="457:484" placeholder="delete from ..." />
+            <marker date="1423409757457" expanded="true" signature="508:548" placeholder="update user ..." />
+            <marker date="1423409757457" expanded="true" signature="514:548" placeholder="delete from ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
