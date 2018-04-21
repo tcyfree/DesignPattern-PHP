@@ -1,4 +1,4 @@
-## 相关笔记：[大话PHP设计模式：类自动载入、PSR-0规范、链式操作、11种面向对象设计模式实现和使用、OOP的基本原则和自动加载配置](https://segmentfault.com/a/1190000014219849)
+## [大话PHP设计模式：类自动载入、PSR-0规范、链式操作、11种面向对象设计模式实现和使用、OOP的基本原则和自动加载配置](https://segmentfault.com/a/1190000014219849)
 
 
 
@@ -745,8 +745,6 @@ $config = array(
 );
 return $config;
 ```
-
-&nbsp;&nbsp;&nbsp;&nbsp;![clipboard.png](/img/bV7OBP)
 
 **完！**
 
