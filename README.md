@@ -180,8 +180,6 @@ class Register
 }
 ```
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![clipboard.png](/img/bV7Kin)
-
 ## 5.4 三种基本模式总结
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1、工厂模式的特征有一个统一生成对象的入口，使用工厂方式生成对象，而不是在代码直接`new`。为了后期更好的扩展和修改**
 
@@ -496,7 +494,6 @@ $event->trigger();
 2. 与工厂模式的实现不同，原型模式是 先创建好一个原型对象，然后通过`clone`原型对象来创建新的对象。这样就**免去了类创建时的重复初始化操作**
 3. 原型模式适用于大对象的创建，创建一个大对象需要很大的开销，如果每次都`new`就会消耗很大，原型模式仅需**内存拷贝**即可
 
-&nbsp;&nbsp;&nbsp;&nbsp;![clipboard.png](/img/bV7KCv)
 
 # 十一、装饰器模式
 1. 装饰器模式（`Decorator`），可以**动态地添加修改类的功能**
@@ -578,8 +575,6 @@ class ColorDrawDecorator implements DrawDecorator
 }
 ```
 
-&nbsp;&nbsp;&nbsp;&nbsp;![clipboard.png](/img/bV7KL9)
-
 
 # 十二、迭代器模式
 1. 迭代器模式，在不需要了解内部实现的前提下，遍历一个聚合对象的内部元素
@@ -648,8 +643,6 @@ foreach ($users as $user){
 &nbsp;&nbsp;&nbsp;&nbsp;代理模式：数据库主从，通过代理设置主从读写设置
 
 &nbsp;&nbsp;&nbsp;&nbsp;**传统方式：**
-
-&nbsp;&nbsp;&nbsp;&nbsp;![clipboard.png](/img/bV7MYr)
 
 &nbsp;&nbsp;&nbsp;&nbsp;需要手动的去选择主库和从库。
 
@@ -757,4 +750,4 @@ return $config;
 
 **完！**
 
-[**参考教程：**韩天峰-大话PHP设计模式](https://www.imooc.com/learn/236)
+[参考教程：韩天峰-大话PHP设计模式](https://www.imooc.com/learn/236)
